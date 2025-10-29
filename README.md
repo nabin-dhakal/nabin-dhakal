@@ -40,7 +40,7 @@
 ### 🌍 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nabin-dhakal10/)  
 - 📧 **nabindhakal336@gmail.com**
-  [Instagram](https://www.instagram.com/nabiniverse)
+- [Instagram](https://www.instagram.com/nabiniverse)
   
 ---
 
