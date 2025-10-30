@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Nabin Dhakal!
 
 🎓 **IT Student | Technical Coordinator @ LICT Club** 
-**Backend Developer @ Intelzy Softwares**
+- **Backend Developer @ Intelzy Softwares**
 💻 **Cybersecurity & Networking Enthusiast**  
 🔐 Preparing for **OSCP Certification**
 
