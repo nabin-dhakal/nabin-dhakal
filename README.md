@@ -1,40 +1,40 @@
-# 👋 Hey there, I'm Nabin Dhakal!
+# Hey there, I'm Nabin Dhakal!
 
-- 💻 **Backend Developer @ Intelzy Softwares**  
-- 🎓 **IT Student | Technical Coordinator @ LICT Club**  
-- 🔐 **Cybersecurity & Networking Enthusiast**  
-- 🛡️ Preparing for **OSCP Certification**
-
----
-
-### 🧠 About Me
-- 🔍 Learning **Web Exploitation**, **Bug Bounty**, and **Penetration Testing**  
-- 💡 Building a **Network Intrusion Detection & Prevention System (NIDPS)** using Python + ML  
-- 🧰 Skilled in **Linux, Networking (CCNA)**, **Python scripting**, and **Django development**  
-- ⚙️ Active CTF player on weekends (CTFtime)
+- **Backend Developer @ Intelzy Softwares**  
+- **IT Student | Technical Coordinator @ LICT Club**  
+- **Cybersecurity & Networking Enthusiast**  
+- Preparing for **OSCP Certification**
 
 ---
 
-### 🚀 Projects & Work
-- 🧩 [NIDPS – Network Intrusion Detection & Prevention System] 
-- 🌐 [Networking Projects Repository]  
-- 🕸️ Django-based web apps & internal tools at Intelzy Softwares  
-- 📘 [OSCP Lab Notes]
-- 🐞 [Bug Bounty Journal]
+### About Me
+-  Learning **Web Exploitation**, **Bug Bounty**, and **Penetration Testing**  
+-  Building a **Network Intrusion Detection & Prevention System (NIDPS)** using Python + ML  
+-  Skilled in **Linux, Networking (CCNA)**, **Python scripting**, and **Django development**  
+-  Active CTF player on weekends (CTFtime)
 
 ---
 
-### ⚡ Tech Stack
-💻 **Languages:** Python (Django), Bash, Assembly (x86-64)  
-🌐 **Web:** Django, REST APIs, SQL  
-🌐 **Networking:** CCNA fundamentals, packet analysis  
-🛡️ **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit  
-🐧 **OS:** Linux (primary)  
-🛠️ **Dev Tools:** Git, GitHub Actions, PyCharm, VS Code, Docker
+### Projects & Work
+- [NIDPS – Network Intrusion Detection & Prevention System] 
+- [Networking Projects Repository]  
+- Django-based web apps & internal tools at Intelzy Softwares  
+- [OSCP Lab Notes]
+- [Bug Bounty Journal]
 
 ---
 
-### 🌱 Current Focus
+### Tech Stack
+**Languages:** Python (Django), Bash, Assembly (x86-64)  
+**Web:** Django, REST APIs, SQL  
+**Networking:** CCNA fundamentals, packet analysis  
+**Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit  
+**OS:** Linux (primary)  
+**Dev Tools:** Git, GitHub Actions, PyCharm, VS Code, Docker
+
+---
+
+### Current Focus
 - OSCP Preparation (daily labs & practice)  
 - Bug Bounty Hunting & Web Exploitation  
 - Building Security & Networking Projects  
@@ -42,10 +42,10 @@
 
 ---
 
-### 🌍 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/nabin-dhakal10/)  
-- 📧 **nabindhakal336@gmail.com**  
-- 📸 [Instagram](https://www.instagram.com/nabiniverse)
+### Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/nabin-dhakal10/)  
+- **nabindhakal336@gmail.com**  
+- [Instagram](https://www.instagram.com/nabiniverse)
 
 ---
 
