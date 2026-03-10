@@ -1,52 +1,77 @@
 # Hey there, I'm Nabin Dhakal!
 
-- **Backend Developer @ Intelzy Softwares**  
-- **IT Student | Technical Coordinator @ LICT Club**  
-- **Cybersecurity & Networking Enthusiast**  
-- Preparing for **OSCP Certification**
+- Backend & DevOps Engineer at Intelzy Softwares (Sept 2025 – Present)
+- Co‑founder & Developer at StaffSync (2026 – Present)
+- BSc CSIT Student
+- Building scalable web applications and HR tech solutions
 
 ---
 
-### About Me
--  Learning **Web Exploitation**, **Bug Bounty**, and **Penetration Testing**  
--  Building a **Network Intrusion Detection & Prevention System (NIDPS)** using Python + ML  
--  Skilled in **Linux, Networking (CCNA)**, **Python scripting**, and **Django development**  
--  Active CTF player on weekends (CTFtime)
+## About Me
+
+- Building and selling StaffSync – a complete HR management suite with attendance tracking, leave management, payroll, and role‑based dashboards.
+- Working on backend development and DevOps – CI/CD pipelines, cloud deployments, and scalable system design.
+- Passionate about system design, cloud architecture, and building secure, reliable applications.
+- Currently deepening my knowledge of real‑time systems and cloud infrastructure.
+- Open source contributor and CTF enthusiast on weekends.
 
 ---
 
-### Projects & Work
-- [NIDPS – Network Intrusion Detection & Prevention System] 
-- [Networking Projects Repository]  
-- Django-based web apps & internal tools at Intelzy Softwares  
-- [OSCP Lab Notes]
-- [Bug Bounty Journal]
+## Products & Projects
+
+### StaffSync (Co‑founder & Lead Developer)
+A comprehensive HR management platform featuring:
+- Role‑based dashboards for Admin, Manager, and Employee
+- Attendance tracking with check‑in/out and shift management
+- Leave management with policy configuration and approvals
+- Complete payroll processing with payslip generation
+- Department management and employee database
+- Built with React, FastAPI, TailwindCSS, PostgreSQL
+
+### NIDPS – Network Intrusion Detection & Prevention System
+Python + ML based system for network security monitoring.
+
+### PwnJournal
+Full‑stack writeup platform for security enthusiasts (React + Django).
+
+### LICT Club Official Website
+Deployed club site with event management, registration, and CRM features.
+
+### Other Projects
+- Collaborative Docs Editor – Real‑time editing with FastAPI + React
+- DigDog – IP geolocation lookup tool (Plasmo + FastAPI)
+- HTTP Server from scratch – Custom HTTP/1.1 server in Python using sockets
 
 ---
 
-### Tech Stack
-**Languages:** Python (Django), Bash, Assembly (x86-64)  
-**Web:** Django, REST APIs, SQL  
-**Networking:** CCNA fundamentals, packet analysis  
-**Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit  
-**OS:** Linux (primary)  
-**Dev Tools:** Git, GitHub Actions, PyCharm, VS Code, Docker
+## Tech Stack
+
+**Languages:** Python, JavaScript, C, C++, Bash  
+**Backend:** Django, Django REST Framework, FastAPI, Node.js  
+**Frontend:** React, TailwindCSS, HTML/CSS  
+**Database:** PostgreSQL, MongoDB  
+**DevOps & Tools:** Docker, Git, GitHub Actions, Linux, CI/CD  
+**Security:** Wireshark, Nmap, Burp Suite, Metasploit  
+**Cloud & Infrastructure:** Cloud deployments, server management
 
 ---
 
-### Current Focus
-- OSCP Preparation (daily labs & practice)  
-- Bug Bounty Hunting & Web Exploitation  
-- Building Security & Networking Projects  
-- Developing Django-based web apps professionally
+## Current Focus
+
+- Scaling StaffSync and adding new features based on customer feedback.
+- Deepening knowledge of cloud architecture and real‑time systems.
+- Building robust CI/CD pipelines and infrastructure automation.
+- Exploring system design patterns and scalable architectures.
 
 ---
 
-### Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/nabin-dhakal10/)  
-- **nabindhakal336@gmail.com**  
-- [Instagram](https://www.instagram.com/nabiniverse)
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/nabin-dhakal10/)
+- [GitHub](https://github.com/Nabin-Dhakal) (you're already here!)
+- [Portfolio](https://nabindhakal10.com.np)
+- nabindhakal336@gmail.com
 
 ---
 
-⭐ **Fun fact:** I love solving CTF challenges, building secure web apps, and breaking systems to learn how they work!
+Fun fact: I love turning complex problems into simple, elegant solutions – whether it's building a SaaS product from scratch or breaking down systems to understand how they work!
