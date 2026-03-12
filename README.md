@@ -28,8 +28,8 @@ A comprehensive HR management platform featuring:
 - Department management and employee database
 - Built with React, FastAPI, TailwindCSS, PostgreSQL
 
-### NIDPS – Network Intrusion Detection & Prevention System
-Python + ML based system for network security monitoring.
+### Collaborative Docs Editor 
+– Real-time editing with FastAPI + React
 
 ### PwnJournal
 Full‑stack writeup platform for security enthusiasts (React + Django).
@@ -38,7 +38,6 @@ Full‑stack writeup platform for security enthusiasts (React + Django).
 Deployed club site with event management, registration, and CRM features.
 
 ### Other Projects
-- Collaborative Docs Editor – Real‑time editing with FastAPI + React
 - DigDog – IP geolocation lookup tool (Plasmo + FastAPI)
 - HTTP Server from scratch – Custom HTTP/1.1 server in Python using sockets
 
