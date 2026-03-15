@@ -4,7 +4,7 @@
 
 **Backend & DevOps Engineer** building scalable web applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-dhakal10/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-connects/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nabindhakal10.com.np)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabindhakal336@gmail.com)
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-- Backend & DevOps Engineer at Intelzy Softwares (Sept 2025 – Present)
+- Backend & DevOps Engineer at Intelzy Softwares (Sept 2025 – Feb 2026)
 - Currently deepening knowledge in cloud architecture and real-time systems
 - Open to collaborating on open source projects and CTF challenges
 - Ask me about Python, Django, FastAPI, React, or DevOps
@@ -25,7 +25,7 @@
 
 ## Experience
 
-**Backend & DevOps Engineer** | Intelzy Softwares (Sept 2025 – Present)
+**Backend & DevOps Engineer** | Intelzy Softwares (Sept 2025 – Feb 2026)
 - Building and maintaining scalable backend systems
 - Implementing CI/CD pipelines and cloud deployments
 - Working on system design and infrastructure automation
@@ -42,7 +42,7 @@ Real-time collaborative document editing with:
 - Version history and document recovery
 - Sharing permissions and access control
 
-[View Repository](https://github.com/Nabin-Dhakal/docs-editor) | [Live Demo](https://docs-editor.demo.com)
+[View Repository](https://github.com/Nabin-Dhakal/docs-editor) | [Live Demo](https://pinnacle-hub.nabindhakal10.com.np)
 
 ---
 
@@ -54,7 +54,7 @@ Full-stack writeup platform for security enthusiasts:
 - Code snippet formatting with syntax highlighting
 - Tag-based organization and search
 
-[View Repository](https://github.com/Nabin-Dhakal/pwnjournal)
+[View Repository](https://github.com/Nabin-Dhakal/pwnjournal) | [Live Demo](https://pwn-journal.vercel.app)
 
 ---
 
@@ -102,7 +102,7 @@ Personal portfolio website showcasing projects and experience:
 - 90+ Lighthouse performance score
 - Blog section for technical writing
 
-[View Repository](https://github.com/Nabin-Dhakal/portfolio) | [Live Site](https://nabindhakal10.com.np)
+[View Repository](https://github.com/Nabin-Dhakal/nabindhakal10) | [Live Site](https://nabindhakal10.com.np)
 
 ---
 
@@ -167,7 +167,7 @@ I'm always interested in:
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-dhakal10/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-connects/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nabindhakal10.com.np)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabindhakal336@gmail.com)
 
