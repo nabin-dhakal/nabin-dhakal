@@ -65,7 +65,7 @@ Live: https://nabindhakal10.com.np
 ## Technical Skills
 
 **Languages**  
-Python, JavaScript, C, C++, Bash  
+`Python`, `JavaScript`, `C`, `C++`, `Bash`  
 
 **Backend**  
 Django, Django REST Framework, FastAPI  
@@ -83,8 +83,6 @@ Docker, Git, GitHub Actions, Linux, Nginx
 Wireshark, Burp Suite, Metasploit, Nmap  
 
 ---
-
-## GitHub Statistics
 
 ## GitHub Statistics
 
