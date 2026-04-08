@@ -1,104 +1,98 @@
-# 👋 Hi, I'm Nabin Dhakal
+# Nabin Dhakal
 
-🚀 **Backend & DevOps Engineer**  
-I build scalable systems, real-time apps, and developer-friendly infrastructure.
-
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-connects/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://nabindhakal10.com.np)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nabindhakal336@gmail.com)
+Backend and DevOps Engineer focused on building scalable systems, real-time applications, and reliable infrastructure.
 
 ---
 
-## 🧠 About Me
+## About
 
-- ⚙️ Backend & DevOps Engineer @ **Intelzy Softwares** *(Sept 2025 – Feb 2026)*
-- 🎓 BSc CSIT student  
-- ☁️ Exploring **cloud architecture** & **real-time systems**
-- 🤝 Open to **open-source collaborations** & **CTF challenges**
+I am a Backend and DevOps Engineer with a strong interest in system design, cloud architecture, and performance-focused applications. I enjoy understanding systems at a fundamental level and rebuilding them with better structure, efficiency, and scalability.
 
-💬 Ask me about: **Python, Django, FastAPI, React, DevOps**
-
-> I like breaking systems apart to understand them — then rebuilding them better.
+- Backend & DevOps Engineer at Intelzy Softwares (Sept 2025 – Feb 2026)  
+- BSc CSIT student  
+- Currently exploring distributed systems and real-time architectures  
+- Open to open-source collaboration and security/CTF challenges  
 
 ---
 
-## 🛠️ Projects
+## Projects
 
-### 📝 Collaborative Docs Editor  
-**React · FastAPI · WebSockets · PostgreSQL**  
-Real-time editing with live cursors, version history & permissions  
-🔗 [Repo](https://github.com/Nabin-Dhakal/docs-editor) · [Demo](https://pinnacle-hub.nabindhakal10.com.np)
-
----
-
-### 🔐 PwnJournal  
-**React · Django · PostgreSQL**  
-CTF writeup platform with tagging & syntax highlighting  
-🔗 [Repo](https://github.com/Nabin-Dhakal/pwnjournal) · [Demo](https://pwn-journal.vercel.app)
+### Collaborative Docs Editor  
+React, FastAPI, WebSockets, PostgreSQL  
+A real-time collaborative editor featuring live cursors, version history, and access control.  
+Repository: https://github.com/Nabin-Dhakal/docs-editor  
+Demo: https://pinnacle-hub.nabindhakal10.com.np  
 
 ---
 
-### 🌐 Custom HTTP Server  
-**Python · Sockets · HTTP/1.1**  
-Built from scratch — supports static files & keep-alive  
-🔗 [Repo](https://github.com/Nabin-Dhakal/http-server)
+### PwnJournal  
+React, Django, PostgreSQL  
+A platform for writing and organizing CTF writeups with tagging and syntax highlighting.  
+Repository: https://github.com/Nabin-Dhakal/pwnjournal  
+Demo: https://pwn-journal.vercel.app  
 
 ---
 
-### 🕵️ DigDog  
-**Plasmo · FastAPI · IP Geolocation**  
-Browser extension + API for quick IP lookup  
-🔗 [Repo](https://github.com/Nabin-Dhakal/digdog)
+### Custom HTTP Server  
+Python, Sockets, HTTP/1.1  
+A minimal HTTP server built from scratch supporting static file serving and persistent connections.  
+Repository: https://github.com/Nabin-Dhakal/http-server  
 
 ---
 
-### 🏫 LICT Club Website  
-**React · Django · CRM**  
-Event management, member CRM & automated communication  
-🔗 [Repo](https://github.com/Nabin-Dhakal/lict-club)
+### DigDog  
+Plasmo, FastAPI, IP Geolocation  
+A browser extension and API for fast IP lookup and analysis.  
+Repository: https://github.com/Nabin-Dhakal/digdog  
 
 ---
 
-### 🌍 Portfolio  
-**React · TailwindCSS · Vercel**  
-90+ Lighthouse score, dark mode, blog  
-🔗 [Repo](https://github.com/Nabin-Dhakal/nabindhakal10) · [Live](https://nabindhakal10.com.np)
+### LICT Club Website  
+React, Django  
+A web platform for event management, member tracking, and automated communication.  
+Repository: https://github.com/Nabin-Dhakal/lict-club  
 
 ---
 
-## ⚙️ Tech Stack
+### Portfolio  
+React, TailwindCSS, Vercel  
+Personal portfolio with a focus on performance, accessibility, and clean design.  
+Repository: https://github.com/Nabin-Dhakal/nabindhakal10  
+Live: https://nabindhakal10.com.np  
+
+---
+
+## Technical Skills
 
 **Languages**  
-`Python` · `JavaScript` · `C` · `C++` · `Bash`
+Python, JavaScript, C, C++, Bash  
 
 **Backend**  
-`Django` · `DRF` · `FastAPI`
+Django, Django REST Framework, FastAPI  
 
 **Frontend**  
-`React` · `TailwindCSS` · `HTML/CSS`
+React, Tailwind CSS, HTML, CSS  
 
-**Database**  
-`PostgreSQL` · `SQLite`
+**Databases**  
+PostgreSQL, SQLite  
 
-**DevOps**  
-`Docker` · `Git` · `GitHub Actions` · `Linux` · `Nginx`
+**DevOps & Tools**  
+Docker, Git, GitHub Actions, Linux, Nginx  
 
-**Security**  
-`Wireshark` · `Burp Suite` · `Metasploit` · `Nmap`
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Nabin-Dhakal&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabin-Dhakal&layout=compact&theme=tokyonight)
+**Security & Networking**  
+Wireshark, Burp Suite, Metasploit, Nmap  
 
 ---
 
-## 📬 Contact
+## GitHub Statistics
 
-[LinkedIn](https://www.linkedin.com/in/nabin-connects/) · [Portfolio](https://nabindhakal10.com.np) · [Email](mailto:nabindhakal336@gmail.com)
+https://github-readme-stats.vercel.app/api?username=Nabin-Dhakal&show_icons=true&theme=tokyonight  
+https://github-readme-stats.vercel.app/api/top-langs/?username=Nabin-Dhakal&layout=compact&theme=tokyonight  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/nabin-connects/  
+Portfolio: https://nabindhakal10.com.np  
+Email: nabindhakal336@gmail.com  
