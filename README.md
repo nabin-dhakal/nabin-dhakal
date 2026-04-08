@@ -68,19 +68,19 @@ Live: https://nabindhakal10.com.np
 `Python`, `JavaScript`, `C`, `C++`, `Bash`  
 
 **Backend**  
-Django, Django REST Framework, FastAPI  
+`Django`, `Django REST Framework`, `FastAPI`  
 
 **Frontend**  
-React, Tailwind CSS, HTML, CSS  
+`React`, `Tailwind CSS`, `HTML`, `CSS` 
 
 **Databases**  
-PostgreSQL, SQLite  
+`PostgreSQL`, `SQLite`  
 
 **DevOps & Tools**  
-Docker, Git, GitHub Actions, Linux, Nginx  
+`Docker`, `Git,` `GitHub Actions`, `Linux`, `Nginx`  
 
 **Security & Networking**  
-Wireshark, Burp Suite, Metasploit, Nmap  
+`Wireshark`, `Burp Suite`, `Metasploit`, `Nmap`  
 
 ---
 
