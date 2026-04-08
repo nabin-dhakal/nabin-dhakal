@@ -18,15 +18,15 @@ I am a Backend and DevOps Engineer with a strong interest in system design, clou
 ## Projects
 
 ### Collaborative Docs Editor  
-React, FastAPI, WebSockets, PostgreSQL  
+`React`, `FastAPI`, `WebSockets`, `PostgreSQL`  
 A real-time collaborative editor featuring live cursors, version history, and access control.  
-Repository: https://github.com/Nabin-Dhakal/docs-editor  
+Repository: https://github.com/Nabin-Dhakal/Pinnacle-hub
 Demo: https://pinnacle-hub.nabindhakal10.com.np  
 
 
 
 ### PwnJournal  
-React, Django, PostgreSQL  
+`React`, `Django`, `PostgreSQL`  
 A platform for writing and organizing CTF writeups with tagging and syntax highlighting.  
 Repository: https://github.com/Nabin-Dhakal/pwnjournal  
 Demo: https://pwn-journal.vercel.app  
@@ -34,28 +34,28 @@ Demo: https://pwn-journal.vercel.app
 
 
 ### Custom HTTP Server  
-Python, Sockets, HTTP/1.1  
+`Python`, `Sockets`, `HTTP/1.1 ` 
 A minimal HTTP server built from scratch supporting static file serving and persistent connections.  
 Repository: https://github.com/Nabin-Dhakal/http-server  
 
 
 
 ### DigDog  
-Plasmo, FastAPI, IP Geolocation  
+`Plasmo`, `FastAPI`, `IP Geolocation`  
 A browser extension and API for fast IP lookup and analysis.  
 Repository: https://github.com/Nabin-Dhakal/digdog  
 
 
 
 ### LICT Club Website  
-React, Django  
+`React`, `Django ` 
 A web platform for event management, member tracking, and automated communication.  
 Repository: https://github.com/Nabin-Dhakal/lict-club  
 
 
 
 ### Portfolio  
-React, TailwindCSS, Vercel  
+`React`, `TailwindCSS`, `Vercel`  
 Personal portfolio with a focus on performance, accessibility, and clean design.  
 Repository: https://github.com/Nabin-Dhakal/nabindhakal10  
 Live: https://nabindhakal10.com.np  
